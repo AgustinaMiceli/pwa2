@@ -1,0 +1,3 @@
+Veamos si encuentra el archivo y lo puede escribir!
+Este contenido lo agrego al texto existente en el archivo
+Este contenido lo agrego al texto existente en el archivoEste contenido lo agrego al texto existente en el archivoEste contenido lo agrego al texto existente en el archivoEste contenido lo agrego al texto existente en el archivoAgregar datos con un callbackEste contenido lo agrego al texto existente en el archivoAgregar datos con un callback
